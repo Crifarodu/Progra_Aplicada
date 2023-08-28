@@ -1,3 +1,0 @@
-Enlace a proyecto de secuencia utilizando funciones con 8 leds en wokwi con ESP32 
-
-https://wokwi.com/projects/374305720342691841
